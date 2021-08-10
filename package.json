@@ -1,0 +1,17 @@
+{
+    "name": "genshin-compact",
+    "version": "1.1.0",
+    "description": "Genshin compact app",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "genshin-compact"
+    },
+    "author": "alladon",
+    "license": "ISC",
+    "dependencies": {
+        "@types/express": "^4.17.13",
+        "@types/node": "^16.4.13",
+        "express": "^4.17.1"
+    }
+}

@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat&display=swap");
+
+$header: 75px;
+$footer: 30px;
+
+$content: calc(100vh - #{$header});
+$contentWithoutFooter: calc(100vh - #{$header} - #{$footer});
+$preview: 400px;
+
+$mainColor: #131313;
+$thirtyColor: #191a1a;
+$secondaryColor: #212222;
+$mainFontColor: #e9e9e9;
+$secondaryFontColor: #b3b3b3;
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+}
